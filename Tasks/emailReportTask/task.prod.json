@@ -48,6 +48,16 @@
       },
       "groupName": "emailConfiguration"
     },
+    
+    {
+      "name": "subject",
+      "type": "string",
+      "label": "Email From",
+      "defaultValue": "",
+      "required": true,
+      "helpMarkDown": "From Email Address.",
+      "groupName": "emailConfiguration"
+    },
     {
       "name": "subject",
       "type": "string",
